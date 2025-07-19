@@ -35,24 +35,23 @@ This analysis can assist:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/EV-Adoption-Forecasting.git
-   cd EV-Adoption-Forecasting
-Install the required libraries:
+   git clone https://github.com/Yogeshwarypl/EV_Vehicle_Demand_Prediction.git
+   cd EV_Vehicle_Demand_Prediction
 
-bash
-Copy
-Edit
+   ```
+## Install the required libraries:
+
+```
 pip install -r requirements.txt
 Open the Jupyter notebook:
-
-bash
-Copy
-Edit
 jupyter notebook EV_Adoption_Forecasting.ipynb
-📄 License
+```
+
+## 📄 License
 This project is licensed under the MIT License – feel free to use it with attribution.
 
+
 👩‍💻 Author
-Your Name (e.g., Vadla Yogeshwar)
+Your Name: Vadla Yogeshwar
 AICTE Internship Cycle 2 – July 2025
 GitHub | LinkedIn
