@@ -1,8 +1,8 @@
 # EV-Vehicle-Demand-Prediction - EV Adoption Forecasting 🚗⚡
-`This project analyzes electric vehicle (EV) population data by county and forecasts future adoption trends. It uses Python, pandas, and machine learning techniques for predictive modeling. Created as part of AICTE Internship Cycle 2 – July 2025. Useful for policymakers, environmental researchers, and the auto industry.
+This project analyzes electric vehicle (EV) population data by county and forecasts future adoption trends. It uses Python, pandas, and machine learning techniques for predictive modeling. Created as part of AICTE Internship Cycle 2 – July 2025. Useful for policymakers, environmental researchers, and the auto industry.
 
 
-`This project was completed as part of the **AICTE Internship Cycle 2 (July 2025)**. It focuses on analyzing and forecasting the adoption trends of electric vehicles (EVs) across different counties based on population data.
+This project was completed as part of the **AICTE Internship Cycle 2 (July 2025)**. It focuses on analyzing and forecasting the adoption trends of electric vehicles (EVs) across different counties based on population data.
 
 ## 📁 Project Files
 
@@ -55,4 +55,4 @@ This project is licensed under the MIT License – feel free to use it with attr
 👩‍💻 Author
 Your Name: Vadla Yogeshwar
 AICTE Internship Cycle 2 – July 2025
-GitHub | LinkedIn
+GitHub https://github.com/Yogeshwarypl | LinkedIn https://www.linkedin.com/in/vadla-yogeshwar/
